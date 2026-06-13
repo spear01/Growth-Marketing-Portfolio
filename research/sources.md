@@ -35,10 +35,10 @@
 - **Link:** https://www.linkedin.com/in/lily-ray-44755615
 - **Why:** Founder of Algorythmic, VP of SEO & AI Search at Amsive, highly active voice on AI search and SEO strategy
 
-## 8. Jori Ford
-- **Platform:** LinkedIn
-- **Link:** https://www.linkedin.com/in/joriford
-- **Why:** Technical SEO analyst, experimental AI search research
+## 8. Kevin Indig
+- **Platform:** LinkedIn, Blog (The Growth Memo)
+- **Link:** https://www.linkedin.com/in/kevinindig
+- **Why:** Growth Advisor to Airbnb, Meta, Shopify — active AI SEO strategist and prompt tracking expert
 
 ## 9. Milosz Krasinski
 - **Platform:** LinkedIn, Blog
