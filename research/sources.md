@@ -45,7 +45,7 @@
 - **Link:** https://www.linkedin.com/in/miloszkrasinski
 - **Why:** Runs AI-powered SEO agency for Fortune 500 companies
 
-## 10. Jason Lemkin
+## 10. Jason M. Lemkin
 - **Platform:** LinkedIn
 - **Link:** https://www.linkedin.com/in/jasonmlemkin
 - **Why:** 300K+ followers, AI + SaaS growth strategies
