@@ -22,7 +22,7 @@
 
 ## 5. Edward Sturm
 - **Platform:** YouTube, LinkedIn
-- **Link:** https://www.linkedin.com/in/edwardsturm
+- **Link:** https://www.linkedin.com/in/edward-sturm
 - **Why:** Enterprise SEO, consulted Microsoft and P&G
 
 ## 6. Amanda Natividad
