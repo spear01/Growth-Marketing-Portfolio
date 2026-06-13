@@ -30,10 +30,10 @@
 - **Link:** https://www.linkedin.com/in/amandanat
 - **Why:** Zero-click marketing, AI-era content strategy
 
-## 7. AJ Kohn
-- **Platform:** LinkedIn, Blog
-- **Link:** https://www.linkedin.com/in/ajkohn
-- **Why:** Data-backed AI content strategy insights
+## 7. Lily Ray
+- **Platform:** LinkedIn
+- **Link:** https://www.linkedin.com/in/lily-ray-44755615
+- **Why:** Founder of Algorythmic, VP of SEO & AI Search at Amsive, highly active voice on AI search and SEO strategy
 
 ## 8. Jori Ford
 - **Platform:** LinkedIn
