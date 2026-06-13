@@ -17,7 +17,7 @@
 
 ## 4. Mike King
 - **Platform:** LinkedIn, Conferences
-- **Link:** https://www.linkedin.com/in/mike-king
+- **Link:** https://www.linkedin.com/in/michaelkingphilly
 - **Why:** 2025 Search Marketer of the Year, AI + search deep dives
 
 ## 5. Edward Sturm
